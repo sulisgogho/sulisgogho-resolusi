@@ -1,2 +1,2 @@
 # sulisgogho-resolusi
-Repositoru untuk menyimpan rencana Sulis Gogho kedepannya
+Repository untuk menyimpan rencana Sulis Gogho kedepannya
