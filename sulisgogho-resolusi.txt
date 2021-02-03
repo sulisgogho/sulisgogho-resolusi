@@ -6,5 +6,5 @@ Sulis Gogho Resolusi
 - belajar python
 - belajar CTF
 - belajar materi kuliah
-- membuat website online shop
+- Membuat vlog
 - belajar photoshop
